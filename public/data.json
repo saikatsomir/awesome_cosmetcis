@@ -1,0 +1,218 @@
+[
+  {
+    "_id": "gg-1001",
+    "productUrl": "https://i.ibb.co/7kbz02G/211118-MNOS08-WEB-1024x1024.webp",
+    "title": "Stylish Men Jacket",
+    "description": "This is a stylish and comfortable men jacket, perfect for any casual outing. Its modern design and warm material make it an ideal winter choice.",
+    "rating": 4,
+    "price": 45.99
+  },
+  {
+    "_id": "gg-1002",
+    "productUrl": "https://i.ibb.co/6YQkvCT/211118-MNOS06-WEB-1024x1024.webp",
+    "title": "Modern Casual T-Shirt",
+    "description": "A trendy and comfortable casual t-shirt for daily wear. The soft fabric and stylish design ensure comfort throughout the day.",
+    "rating": 4.5,
+    "price": 19.99
+  },
+  {
+    "_id": "gg-1003",
+    "productUrl": "https://i.ibb.co/3FPj44M/230503-MLMM04-Match-Maker-KS-800x.webp",
+    "title": "Perfect Match Shoes",
+    "description": "These shoes are designed for comfort and style. Ideal for both casual and formal wear, they provide a great fit and support for long walks.",
+    "rating": 5,
+    "price": 59.99
+  },
+  {
+    "_id": "gg-1004",
+    "productUrl": "https://i.ibb.co/mzVdSCT/240115-MFPR01-PD-JJ-1024x1024.webp",
+    "title": "Comfortable Sneakers",
+    "description": "A pair of sneakers with maximum comfort, designed to keep your feet comfortable while maintaining a sleek, stylish appearance.",
+    "rating": 4,
+    "price": 39.99
+  },
+  {
+    "_id": "gg-1005",
+    "productUrl": "https://i.ibb.co/C2MSrgc/240115-MFPR02-PD-JJ-800x.webp",
+    "title": "Trendy Summer Shoes",
+    "description": "These shoes are perfect for summer. Lightweight, breathable, and stylish, they pair perfectly with any casual outfit.",
+    "rating": 4.5,
+    "price": 29.99
+  },
+  {
+    "_id": "gg-1006",
+    "productUrl": "https://i.ibb.co/Ht7XPxw/240725-HCGR13-103e3b42-9e7b-4fdd-b5dd-e74121d38a09-800x.webp",
+    "title": "Elegant Handbag",
+    "description": "This elegant handbag is made with high-quality materials, offering a blend of style and functionality. A perfect accessory for any occasion.",
+    "rating": 5,
+    "price": 89.99
+  },
+  {
+    "_id": "gg-1007",
+    "productUrl": "https://i.ibb.co/Z6j7vs5/ABMB09-1024x1024-1.webp",
+    "title": "Classic Watch",
+    "description": "A classic, elegant watch that blends well with any outfit. Its sleek design and durability make it perfect for everyday use.",
+    "rating": 4.5,
+    "price": 99.99
+  },
+  {
+    "_id": "gg-1008",
+    "productUrl": "https://i.ibb.co/mNRmtTY/ABMB09-1024x1024.webp",
+    "title": "Luxury Sunglasses",
+    "description": "Stylish and luxurious sunglasses offering UV protection and a modern design that adds flair to any look.",
+    "rating": 4,
+    "price": 79.99
+  },
+  {
+    "_id": "gg-1009",
+    "productUrl": "https://i.ibb.co/hmsz1Bm/ABMB25-26-Multi-Brush-resized-1024x1024.webp",
+    "title": "Premium Brush Set",
+    "description": "This premium brush set includes high-quality brushes for various uses. Whether for makeup or other creative tasks, they provide excellent results.",
+    "rating": 4.5,
+    "price": 35.99
+  },
+  {
+    "_id": "gg-1010",
+    "productUrl": "https://i.ibb.co/87dTykQ/AH-HTHS02-Front-4641afb2-cd7c-4b2c-977b-87f59b3b3ec9-1024x1024.webp",
+    "title": "Trendy Hoodie",
+    "description": "A cozy and trendy hoodie perfect for chilly days. This hoodie offers warmth, style, and comfort, ideal for casual wear.",
+    "rating": 4,
+    "price": 39.99
+  },
+  {
+    "_id": "gg-1011",
+    "productUrl": "https://i.ibb.co/L94Gx5v/BASFNC02-1024x1024.webp",
+    "title": "Leather Wallet",
+    "description": "A sleek leather wallet with multiple compartments for your essentials. Its compact design and durable material make it perfect for daily use.",
+    "rating": 5,
+    "price": 49.99
+  },
+  {
+    "_id": "gg-1012",
+    "productUrl": "https://i.ibb.co/thD0G3L/HCGR11-800x.webp",
+    "title": "Winter Coat",
+    "description": "This winter coat is designed to keep you warm in the harshest of weather while maintaining a stylish appearance.",
+    "rating": 4,
+    "price": 69.99
+  },
+  {
+    "_id": "gg-1013",
+    "productUrl": "https://i.ibb.co/vLCQQz4/HCGR12-800x.webp",
+    "title": "Casual Backpack",
+    "description": "This casual backpack is perfect for school or casual outings. It features spacious compartments and a comfortable fit.",
+    "rating": 4.5,
+    "price": 25.99
+  },
+  {
+    "_id": "gg-1014",
+    "productUrl": "https://i.ibb.co/GMPN797/HCOL-Rev-01-1024x1024.webp",
+    "title": "Fitness Tracker",
+    "description": "A sleek and efficient fitness tracker that monitors your activity levels, heart rate, and more. It's a perfect companion for a healthy lifestyle.",
+    "rating": 4,
+    "price": 49.99
+  },
+  {
+    "_id": "gg-1015",
+    "productUrl": "https://i.ibb.co/hDpLgtS/HCOL13-1024x1024.webp",
+    "title": "Smartphone Case",
+    "description": "Protect your phone with this stylish and durable smartphone case. It provides excellent protection while maintaining a sleek appearance.",
+    "rating": 5,
+    "price": 19.99
+  },
+  {
+    "_id": "gg-1016",
+    "productUrl": "https://i.ibb.co/S3skQxC/MFFC01-800x.webp",
+    "title": "Portable Speaker",
+    "description": "A high-quality portable speaker with excellent sound clarity and a compact design, perfect for music lovers on the go.",
+    "rating": 4.5,
+    "price": 39.99
+  },
+  {
+    "_id": "gg-1017",
+    "productUrl": "https://i.ibb.co/92GqFLw/MFFP01-1024x1024.webp",
+    "title": "Wireless Earbuds",
+    "description": "These wireless earbuds provide high-quality sound, noise cancellation, and a comfortable fit. Ideal for all-day wear and workouts.",
+    "rating": 5,
+    "price": 59.99
+  },
+  {
+    "_id": "gg-1018",
+    "productUrl": "https://i.ibb.co/KLJDkWb/MFLF01-c8713357-68c6-4dc9-a6ee-0e976a6e28cc-800x.webp",
+    "title": "Sporty Sneakers",
+    "description": "Sporty sneakers designed for ultimate comfort and durability. These shoes are perfect for both sports and casual wear.",
+    "rating": 4,
+    "price": 49.99
+  },
+  {
+    "_id": "gg-1019",
+    "productUrl": "https://i.ibb.co/wJh5m24/MFLN01-PRODUCT-OPEN-800x.webp",
+    "title": "Fitness Gloves",
+    "description": "High-quality fitness gloves that offer excellent grip and protection during workouts. Ideal for weightlifting or cycling.",
+    "rating": 4.5,
+    "price": 19.99
+  },
+  {
+    "_id": "gg-1020",
+    "productUrl": "https://i.ibb.co/j62Q9MW/MFLT01-800x.webp",
+    "title": "Travel Duffel Bag",
+    "description": "A spacious and durable travel duffel bag with plenty of room for your essentials. Perfect for short trips and weekend getaways.",
+    "rating": 4,
+    "price": 39.99
+  },
+  {
+    "_id": "gg-1021",
+    "productUrl": "https://i.ibb.co/zGCRcb6/MFPD01-1024x1024-1.webp",
+    "title": "Leather Belt",
+    "description": "A durable leather belt that adds a touch of sophistication to any outfit. Perfect for both casual and formal wear.",
+    "rating": 4.5,
+    "price": 24.99
+  },
+  {
+    "_id": "gg-1022",
+    "productUrl": "https://i.ibb.co/0sS6Fw8/MFPD01-1024x1024.webp",
+    "title": "Winter Gloves",
+    "description": "These winter gloves are designed to keep your hands warm in freezing temperatures while offering excellent grip and dexterity.",
+    "rating": 4,
+    "price": 29.99
+  },
+  {
+    "_id": "gg-1023",
+    "productUrl": "https://i.ibb.co/vY3YgJ8/mlms01-800x.webp",
+    "title": "Kitchen Mixer",
+    "description": "A powerful kitchen mixer with multiple speeds for efficient food preparation. Perfect for baking, cooking, and making smoothies.",
+    "rating": 5,
+    "price": 79.99
+  },
+  {
+    "_id": "gg-1024",
+    "productUrl": "https://i.ibb.co/Hd4t4tD/MLSS21-32997677-edad-461c-b883-0f6992501a8b-800x.webp",
+    "title": "Electric Kettle",
+    "description": "An electric kettle that boils water quickly and efficiently. It features a sleek design and is equipped with safety features.",
+    "rating": 4.5,
+    "price": 39.99
+  },
+  {
+    "_id": "gg-1025",
+    "productUrl": "https://i.ibb.co/Y7ZqY9c/MNRD01-1024x1024.webp",
+    "title": "Coffee Maker",
+    "description": "A high-quality coffee maker that brews your favorite coffee with ease. Its modern design and features make it a kitchen essential.",
+    "rating": 4,
+    "price": 69.99
+  },
+  {
+    "_id": "gg-1026",
+    "productUrl": "https://i.ibb.co/Hq98wjk/nfa80-624013ff-1dac-4594-ac8a-231328f95d9f-800x.webp",
+    "title": "Handheld Fan",
+    "description": "A portable handheld fan that keeps you cool during hot days. With multiple speed settings, it's perfect for both outdoor and indoor use.",
+    "rating": 4.5,
+    "price": 19.99
+  },
+  {
+    "_id": "gg-1027",
+    "productUrl": "https://i.ibb.co/p3xknk5/niacinamide-web-image-66730ff3-f9cb-4215-9fc3-1b700ca71f18-800x.webp",
+    "title": "Face Serum",
+    "description": "A refreshing face serum with niacinamide that helps improve skin texture and brightness. Perfect for all skin types, it reduces the appearance of pores.",
+    "rating": 5,
+    "price": 29.99
+  }
+]
